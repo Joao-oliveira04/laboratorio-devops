@@ -48,8 +48,8 @@ Para verificar a instalação:
 ```bash
 docker --version
 ```
+<img width="480" height="56" alt="image" src="https://github.com/user-attachments/assets/afc1186f-4f45-4f6f-9dd9-9615ce760aa0" />
 
-*[Espaço para print: Resultado do comando docker --version]*
 
 #### 2. **AWS CLI**
 Instale seguindo a [documentação oficial](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
@@ -59,7 +59,8 @@ Para verificar:
 aws --version
 ```
 
-*[Espaço para print: Resultado do comando aws --version]*
+<img width="614" height="57" alt="image" src="https://github.com/user-attachments/assets/7d7beded-55d0-48f3-b520-21f78b224e32" />
+
 
 #### 3. **Conta AWS**
 - Crie uma conta gratuita em [aws.amazon.com](https://aws.amazon.com)
